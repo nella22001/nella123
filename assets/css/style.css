@@ -1,0 +1,33 @@
+body {
+background-color:#FFC0CB;
+color:#800080;
+font-size: larger;
+font-family:'Arial Narrow';
+}
+
+h1 {
+    color: #FF0000;
+    border-bottom: 16px;
+    text-align: center;
+    text-transform:uppercase;
+    border-bottom-style: solid;
+
+}
+
+img {
+    float:right;
+    border: solid 1px;
+    border-width: 250px;
+    border-color:#FF0000;
+
+    
+}
+
+a {
+    color: #FF0000;
+}
+
+a:hover {
+color:#0000FF;
+}
+
